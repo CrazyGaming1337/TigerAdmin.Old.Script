@@ -34,7 +34,7 @@ do--//Instances
 	SearchBar = Instance.new("TextBox")
 	Folder.Name = "Tiger1.1Loaded"
 	--
-	AnnouncementLink = "https://pastebin.com/raw/9AcQVV4i"
+	AnnouncementLink = "https://pastebin.com/raw/NOLINK"
 	HasFireTouch = false
 	unloaded=false
 	firetouchinterest=firetouchinterest
@@ -347,7 +347,7 @@ do --//Main Gui
 
 end
 do--//Command handler
-	Prefix = "!"
+	Prefix = "/"
 	CommandsGot = 0
 	TableCommands={}
 	CommandsRawList = {}
@@ -2576,4 +2576,4 @@ end)
 refresh()
 plr.PlayerGui.Home.fadeFrame.Visible = false--//black bar
 CmdBarFrame:TweenPosition(UDim2.new(0.5, 0, 0.899999998, 0),"Out","Back",.5)
-Notif("Loaded! type !noinvite to disable discord invite",3)
+Notif("Old tiger admin script by CrazyGaming#0486",10)
