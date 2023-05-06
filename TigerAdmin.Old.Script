@@ -34,7 +34,7 @@ do--//Instances
 	SearchBar = Instance.new("TextBox")
 	Folder.Name = "Tiger1.1Loaded"
 	--
-	AnnouncementLink = "https://pastebin.com/raw/NOLINK"
+	AnnouncementLink = "https://pastebin.com/raw/XABq2ziW"
 	HasFireTouch = false
 	unloaded=false
 	firetouchinterest=firetouchinterest
